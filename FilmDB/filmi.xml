@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMovie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Movie>
+    <Title>Kung Fu Panda 4</Title>
+    <Actors>Jack Black, Angelina Jolie, Dustin Hoffman</Actors>
+    <Genres>Animation, Action, Comedy</Genres>
+    <ImagePath>assets/imdblogo.png</ImagePath>
+    <IsFavourite>false</IsFavourite>
+    <Director>Jennifer Yuh Nelson</Director>
+    <ReleaseYear>2024</ReleaseYear>
+    <Duration>95</Duration>
+  </Movie>
+  <Movie>
+    <Title>Kung Fu Panda 3</Title>
+    <Actors>Jack Black, Bryan Cranston, Dustin Hoffman</Actors>
+    <Genres>Animation, Action, Adventure</Genres>
+    <ImagePath>assets/imdblogo.png</ImagePath>
+    <IsFavourite>false</IsFavourite>
+    <Director>Alessandro Carloni</Director>
+    <ReleaseYear>2016</ReleaseYear>
+    <Duration>95</Duration>
+  </Movie>
+  <Movie>
+    <Title>Kung Fu Panda 2</Title>
+    <Actors>Jack Black, Gary Oldman, Angelina Jolie</Actors>
+    <Genres>Animation, Action, Adventure</Genres>
+    <ImagePath>assets/imdblogo.png</ImagePath>
+    <IsFavourite>false</IsFavourite>
+    <Director>Jennifer Yuh Nelson</Director>
+    <ReleaseYear>2011</ReleaseYear>
+    <Duration>90</Duration>
+  </Movie>
+  <Movie>
+    <Title>Kung Fu Panda 2</Title>
+    <Actors>Jack Black, Gary Oldman, Angelina Jolie</Actors>
+    <Genres>Animation, Action, Adventure</Genres>
+    <ImagePath>assets/imdblogo.png</ImagePath>
+    <IsFavourite>false</IsFavourite>
+    <Director>Jennifer Yuh Nelson</Director>
+    <ReleaseYear>2011</ReleaseYear>
+    <Duration>90</Duration>
+  </Movie>
+</ArrayOfMovie>

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\FilmDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1888493B-08B1-430A-AC21-B5FE8334C11A}|FilmDB\\FilmDB.csproj|c:\\users\\asus\\desktop\\filmdb\\filmdb\\ratingcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1888493B-08B1-430A-AC21-B5FE8334C11A}|FilmDB\\FilmDB.csproj|solutionrelative:filmdb\\ratingcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1888493B-08B1-430A-AC21-B5FE8334C11A}|FilmDB\\FilmDB.csproj|c:\\users\\asus\\desktop\\filmdb\\filmdb\\ratingtostarsconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1888493B-08B1-430A-AC21-B5FE8334C11A}|FilmDB\\FilmDB.csproj|solutionrelative:filmdb\\ratingtostarsconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RatingToStarsConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\FilmDB\\FilmDB\\RatingToStarsConverter.cs",
+              "RelativeDocumentMoniker": "FilmDB\\RatingToStarsConverter.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\FilmDB\\FilmDB\\RatingToStarsConverter.cs",
+              "RelativeToolTip": "FilmDB\\RatingToStarsConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:01:24.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RatingControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\FilmDB\\FilmDB\\RatingControl.xaml.cs",
+              "RelativeDocumentMoniker": "FilmDB\\RatingControl.xaml.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\FilmDB\\FilmDB\\RatingControl.xaml.cs",
+              "RelativeToolTip": "FilmDB\\RatingControl.xaml.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:01:15.707Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

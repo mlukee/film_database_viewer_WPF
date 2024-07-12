@@ -1,0 +1,20 @@
+﻿<UserControl x:Class="FilmDB.RatingControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:FilmDB"
+             mc:Ignorable="d" 
+             d:DesignHeight="50" d:DesignWidth="200">
+    <StackPanel Orientation="Horizontal">
+        <TextBlock Text="Rating: " VerticalAlignment="Center"/>
+        <ComboBox x:Name="RatingComboBox" Width="50" VerticalAlignment="Center" SelectionChanged="RatingComboBox_SelectionChanged">
+            <ComboBoxItem Content="1"/>
+            <ComboBoxItem Content="2"/>
+            <ComboBoxItem Content="3"/>
+            <ComboBoxItem Content="4"/>
+            <ComboBoxItem Content="5"/>
+        </ComboBox>
+        <!--<TextBlock x:Name="SelectedRatingText" Text="{Binding ElementName=RatingComboBox, Path=SelectedItem.Content}" Margin="10,0,0,0" VerticalAlignment="Center"/> -->
+    </StackPanel>
+</UserControl>
